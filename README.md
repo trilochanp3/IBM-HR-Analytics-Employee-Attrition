@@ -1,9 +1,9 @@
 
-IBM HR Analytics: Employee Attrition & Performance
+#IBM HR Analytics: Employee Attrition & Performance
 Overview
 This project is a comprehensive data analytics initiative aimed at investigating employee attrition trends in a company. By analyzing key factors such as age, gender, and department, the project identifies patterns that can inform HR strategies and improve employee retention.
 
-Objective
+#Objective
 The goal of this project is to:
 
 Examine employee attrition rates and factors affecting them.
